@@ -1,1 +1,2 @@
 "# ChinoKafuu" 
+# ChinoKafuu_Public
